@@ -1,0 +1,50 @@
+
+Body{
+background: black;
+}
+
+h1{
+	text-align: bottom;
+	padding: 200px;
+	background-image: url(https://i.pinimg.com/originals/c1/05/9a/c1059aaf070329927f58c662f930cdfa.gif);
+	background-repeat: no-repeat;
+		background-size: 50%;
+	background-position: center;
+	color: floralwhite;
+}
+h1 {
+  font-family: "";
+  font-size: 50px;
+  color: #FFFFFF;
+  line-height: 1.5;
+  text-shadow: 1px 1px 1px #000000;
+  text-transform: uppercase;
+  letter-spacing: 0.2em;
+  position: center;
+}
+
+.nav-link{
+	color: whitesmoke;
+}
+
+p {
+	color: lightgrey;
+	font-size: 30px;
+	text-align: center;
+}
+
+h2 {
+	color: darkred;
+	font-size: 22px;
+	font-style: italic;
+	font-family: revert-layer;
+
+}
+
+a{
+
+color: lightgrey;
+	font-size: 20px;
+	text-align: center;
+	text-justify: distribute-all-lines;
+}
